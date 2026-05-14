@@ -1,0 +1,11 @@
+# Raster data (archivos grandes)
+data/*.tif
+data/*.tiff
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Output rasters
+output/*.tif
